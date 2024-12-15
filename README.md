@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Sergey 👋
 
-<!--
-**AZEN-SGG/AZEN-SGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 I study at **Moscow State University**, Faculty of Mechanics and Mathematics.
+- 💻 I've been programming since **2017**.
+- 🌟 Passionate about solving complex problems and constantly learning new things in computer science and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages**:
+  - C
+  - Golang
+  - Python
+
+- **Tools I Use**:
+  - Vim
+  - GoLand
+  - PyCharm
+
+## Get in Touch
+
+📧 Email: [rascatov.alex@gmail.com](mailto:rascatov.alex@gmail.com)
+
+Feel free to reach out for collaboration or just to chat about programming, math, or anything tech-related!
